@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cv19res</title>
-    <link>https://example.com/</link>
+    <link>http://cv19res.org/</link>
     <description>Recent content on cv19res</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 27 Jun 2017 17:39:21 -0700</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cv19res.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://example.com/about/</link>
+      <link>http://cv19res.org/about/</link>
       <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>http://cv19res.org/about/</guid>
       <description>cv19res aims to bring research and resources together on the fight against Covid-19.</description>
     </item>
     
